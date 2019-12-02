@@ -1,6 +1,9 @@
 experimental
 cplib.sh
 
+# inputs
+inputs
+
 # bazel generated files
 bazel-bin
 bazel-gbbs
